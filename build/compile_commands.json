@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/Open GL/PART A/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CircleCollision.dir\\src\\main.cpp.obj -c \"D:\\Open GL\\PART A\\src\\main.cpp\"",
+  "file": "D:/Open GL/PART A/src/main.cpp",
+  "output": "CMakeFiles/CircleCollision.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Open GL/PART A/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\CircleCollision.dir\\src\\Circle.cpp.obj -c \"D:\\Open GL\\PART A\\src\\Circle.cpp\"",
+  "file": "D:/Open GL/PART A/src/Circle.cpp",
+  "output": "CMakeFiles/CircleCollision.dir/src/Circle.cpp.obj"
+}
+]
